@@ -1,31 +1,18 @@
-# SCT_SD_1
-Temperature Converter App using Java Swing
+## Getting Started
 
-# Temperature Converter
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-A simple desktop application built with Java Swing to convert temperatures between Celsius, Fahrenheit, and Kelvin scales. The application features a sleek black and green theme and an intuitive user interface for easy and quick conversions.
+## Folder Structure
 
----
+The workspace contains two folders by default, where:
 
-## Technology Stack
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-- **Programming Language:** Java (JDK 8 or higher)
-- **Framework / Library:** Java Swing (Standard GUI toolkit for Java)
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
----
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Features
+## Dependency Management
 
-- Convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**.
-- Simple and user-friendly interface with clear input and output fields.
-- Responsive conversion button with error handling for invalid inputs.
-- Custom black and green theme for an elegant look.
-- Displays temperature units with appropriate symbols (℃, ℉, K).
-
----
-
-### Prerequisites
-
-- Java Development Kit (JDK) 8 or higher installed on your system.
-- An IDE such as IntelliJ IDEA, Eclipse, or you can run it via command line.
-
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
